@@ -1,5 +1,7 @@
 # EDITH Aegis — AI Engineering & Model Lab
 
+[**English**](README.md) · [Italiano](README.it.md)
+
 **LLM evaluation · coding agents · context engineering · multi-model workflows**
 
 This is a curated public research edition of **EDITH Aegis** focused on the AI/software-engineering work developed inside the private project.
